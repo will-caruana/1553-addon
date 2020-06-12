@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name 1553)(type KiCad)(uri C:/Users/mooo/OneDrive/Documents/1553/1553)(options "")(descr "")(disabled))
+  (lib (name digikey-footprints)(type KiCad)(uri C:/Users/mooo/Downloads/digikey-kicad-library-master/digikey-kicad-library-master/digikey-footprints.pretty)(options "")(descr ""))
+)
